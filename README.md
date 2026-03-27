@@ -1,25 +1,24 @@
-# Título do Projeto
-
+# Catalog
 `CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Projeto - Aplicações Web`
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste no desenvolvimento de uma plataforma digital voltada para a divulgação de pequenos negócios locais. A ideia surgiu a partir da dificuldade que muitos empreendedores têm para divulgar seus produtos e serviços na internet, além da dificuldade dos consumidores em encontrar opções próximas de forma rápida e organizada.A plataforma permitirá que empreendedores se cadastrem e divulguem seus negócios, adicionando produtos ou serviços de forma simples. Já os usuários poderão pesquisar diretamente pelo que procuram, encontrando estabelecimentos próximos que atendam à sua necessidade. Dessa forma, o sistema busca facilitar a conexão entre clientes e pequenos negócios, promovendo maior visibilidade e acesso aos serviços locais.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Diego Alves dos Santos
+* Lucas Corrêa Rocha
+* Osmar Costa Alves Coelho
+* Davi do  Amaral Lima
+* Joyce Franco
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marco Rodrigo  Costa
 
 # Planejamento
 
