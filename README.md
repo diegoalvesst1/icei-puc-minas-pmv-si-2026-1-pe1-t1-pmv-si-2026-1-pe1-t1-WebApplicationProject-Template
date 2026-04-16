@@ -6,20 +6,18 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto focado em desenvolver uma aplicação web de catálogo digital que conecte consumidores a microempreendedores do setor terciário por meio de geolocalização e interface de curadoria visual.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-
+* Diego Alves dos Santos  
+* Osmar Costa Alves Coelho  
+* Davi do Amaral Lima  
+* Lucas Corrêa Rocha  
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marco Rodrigo Costa
 
 # Planejamento
 
